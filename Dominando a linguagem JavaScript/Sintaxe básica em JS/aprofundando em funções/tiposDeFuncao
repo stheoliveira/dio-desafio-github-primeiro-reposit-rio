@@ -1,7 +1,7 @@
 // tipos de função
 
 // declarativas
-function funcao() {
+/* function funcao() {
     console.log('sou uma função declarativa')
 }
 
@@ -20,4 +20,4 @@ var funcao = () => {
     console.log('sou uma arrow function')
 }
 
-funcao();
+funcao(); */
