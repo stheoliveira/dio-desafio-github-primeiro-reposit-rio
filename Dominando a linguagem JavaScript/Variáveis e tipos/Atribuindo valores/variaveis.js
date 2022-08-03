@@ -4,7 +4,9 @@ numberOne = 1;
 
 console.log(numberOne + 2); */
 
-var firstName = "João";
+//variáveis
+
+/* var firstName = "João";
 let lastName = "Souza";
 
 if(firstName === "João") {
@@ -15,4 +17,9 @@ if(firstName === "João") {
     console.log(lastName);
 }
 
-console.log(firstName, lastName);
+console.log(firstName, lastName); */
+
+//constantes
+const FIRST_NAME = "Sthephany";
+
+console.log(FIRST_NAME)
